@@ -1,9 +1,9 @@
 # Neural Style Transfer
 -----------------------
 
-Superimpose style of one image onto the content of another.
-In simple terms, the underlying technique used by photo editor apps like **Snapseed** , **Prisma** etc.
-Work in progress.!
+Superimpose style of one image onto the content of another.  
+In simple terms, the underlying technique used by photo editor apps like **Snapseed** , **Prisma** etc.  
+Work in progress.!  
 
 ## Todo
 
