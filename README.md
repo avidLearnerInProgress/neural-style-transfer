@@ -8,6 +8,7 @@ Work in progress.!
 ## Todo
 
 - [x] Basic neural style transfer using VGG16
+- [ ] Implement Fast NST
 
 ## Intermediate results
 
